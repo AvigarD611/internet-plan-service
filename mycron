@@ -1,0 +1,1 @@
+*/30 * * * * /usr/bin/php C:\wamp64\www\internet-plan-service/workers/scheduled/sync_internet_plans.php
