@@ -3,6 +3,7 @@
 use App\Services\InternetPlanSyncService;
 
 require_once __DIR__ . '/../../vendor/autoload.php';
+require_once __DIR__ . '/../../bootstrap/app.php';
 
 $container = require __DIR__ . '/../../config/container.php';
 
