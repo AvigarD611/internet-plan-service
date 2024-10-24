@@ -8,7 +8,7 @@ composer install
 ```
 ## Configuration
 ```
-Make sure you have already setup everything required to run PHP and MySQL
+Make sure you have already setup everything required to run PHP and MariaDB
 ```
 ### 1. Copy environment file
 ```
